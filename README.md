@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2023-11-13 104537](https://github.com/vasundrasriravi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393983/375d5a5e-68ef-41c0-8c42-83c4562f6e8f)
+![Screenshot 2023-11-13 104606](https://github.com/vasundrasriravi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393983/6bbb04b4-04ee-490b-82c4-ffe8daef7065)
+![Screenshot 2023-11-13 104651](https://github.com/vasundrasriravi/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393983/c6289697-9ffb-400a-bcf2-01700427a81e)
 
-### Name:
-### Register Number:
+### Name: VASUNDRA SRI R
+### Register Number: 212222230168
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
